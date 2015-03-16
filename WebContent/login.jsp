@@ -15,7 +15,6 @@ return false;
 </head>
 <body bgcolor='cyan' onsubmit="return validate()" >
 <center>
-<img src="image.jpg"/>
 <h1>Welcome to Brillio Portal </h1>
 <br>
 <br>
