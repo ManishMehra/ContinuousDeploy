@@ -13,13 +13,13 @@ return false;
 }
 </script>
 </head>
-<body bgcolor='cyan' onsubmit="return validate()" >
+<body bgcolor=#C0C0C0 onsubmit="return validate()" >
 <center>
 <h1>Welcome to Brillio Portal </h1>
 <br>
 <br>
 <br>
-<form action="home.html" name="form">
+<form action="home.jsp" name="form">
 <table>
 <tr><td>Username</td>
 <td><input type="text" name="username"/>
