@@ -6,7 +6,7 @@
 <script>
 function validate()
 {
-if(document.form.username.value=="Arpit" && document.form.password.value=="Arpit@123")
+if(document.form.username.value=="brillio" && document.form.password.value=="brillio@123")
 return true;
 else
 return false;
